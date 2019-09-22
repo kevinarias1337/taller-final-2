@@ -1,0 +1,10 @@
+D:\TallerFinal2\TallerFinal2\bin\Debug\TallerFinal2.exe.config
+D:\TallerFinal2\TallerFinal2\bin\Debug\TallerFinal2.exe
+D:\TallerFinal2\TallerFinal2\bin\Debug\TallerFinal2.pdb
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.csprojAssemblyReference.cache
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.Form1.resources
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.Properties.Resources.resources
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.csproj.GenerateResource.cache
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.csproj.CoreCompileInputs.cache
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.exe
+D:\TallerFinal2\TallerFinal2\obj\Debug\TallerFinal2.pdb
